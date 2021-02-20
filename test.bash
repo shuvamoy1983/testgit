@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "show all tables"
-mysql -uroot -p'1234' 'mysql' < 'test.sql'
+/usr/bin/mysql -ujenkins -p'Iamhere1@' 'mysql' < 'test.sql'
