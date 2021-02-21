@@ -1,5 +1,5 @@
 
-insert into test2(id) values(890);
-insert into test2(id) values(980);
-insert into test2(id) values(370);
+insert into test2(id) values(89880);
+insert into test2(id) values(98880);
+insert into test2(id) values(9970);
 
